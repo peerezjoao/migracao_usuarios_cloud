@@ -19,5 +19,5 @@ Após isso, desenvolvi um script em python utilizando boto3, que faz a criação
 A automação não apenas acelerou o processo de migração, mas também, mitigou significativamente os erros, garantindo que cada usuário estivesse com as devidas permissões. A utilização do MFA, é uma prática recomendada
 
 # Links relacionados
-  * <a>https://aws.amazon.com/pt/iam/features/mfa/#:~:text=A%20autentica%C3%A7%C3%A3o%20multifator%20da%20AWS,nome%20de%20usu%C3%A1rio%20e%20senha.<a/> Autenticação multifator (MFA) para o IAM
+  * <a name="Autenticação multifator (MFA) para o IAM">https://aws.amazon.com/pt/iam/features/mfa/#:~:text=A%20autentica%C3%A7%C3%A3o%20multifator%20da%20AWS,nome%20de%20usu%C3%A1rio%20e%20senha.<a/>
   * <a name=“guia-mfa”><a/> Guia de Aplicação MFA
