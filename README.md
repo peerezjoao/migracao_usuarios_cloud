@@ -20,4 +20,4 @@ A automação não apenas acelerou o processo de migração, mas também, mitigo
 
 # Links relacionados
   * <a name="Autenticação multifator (MFA) para o IAM" href="https://aws.amazon.com/pt/iam/features/mfa/#:~:text=A%20autentica%C3%A7%C3%A3o%20multifator%20da%20AWS,nome%20de%20usu%C3%A1rio%20e%20senha.">Autenticação multifator (MFA) para o IAM<a/>
-  * <a name=“guia-mfa”><a/> Guia de Aplicação MFA
+  * <a name=“guia-mfa” href="https://docs.aws.amazon.com/pt_br/IAM/latest/UserGuide/id_credentials_mfa_enable.html">Guia de Aplicação MFA<a/> 
